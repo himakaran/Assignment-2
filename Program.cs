@@ -504,7 +504,7 @@ namespace Assignment_2
             }
         }
 
-        /* * Introspection:
+        /* * Self-analysis:
          
          * Using mathematical ideas, such as calculating the distance between the elements and distributing the numbers among the buckets, would be the solution in this situation. It also made it clearer to me how mathematical ideas should be applied while attempting to solve an algorithmic problem.
 
@@ -576,7 +576,7 @@ namespace Assignment_2
         }
 
         /* 
-         * Introspection:
+         * Self-analysis:
          
           I was aware that the triangle inequality theorem may be used during implementation to determine whether the given side lengths could be used to create a triangle with a non-zero area. It made it easier for me to connect my knowledge of geometry with geometric ideas found in algorithmic solutions.
 
@@ -650,7 +650,7 @@ namespace Assignment_2
                 throw;
             }
         }
-        /* * Introspection:
+        /* * Self-analysis:
 
                  * After the solution was implemented, I was able to handle strings again when using methods like IndexOf and Remove to find and eliminate substring occurrences. This was a general reinforcement of how strings are handled in algorithmic solutions.
 
